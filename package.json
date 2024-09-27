@@ -1,0 +1,15 @@
+{
+  "name": "eslint-classname-rule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node enforce-className.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.11.1"
+  }
+}
